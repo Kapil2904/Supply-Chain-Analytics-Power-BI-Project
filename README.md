@@ -2,7 +2,7 @@
 
 > **Transforming raw supply chain data into powerful, interactive business insights**
 
-![Overview Dashboard](screenshots/Overview_dashboard.jpeg)
+![Overview Dashboard](screenshots/Overview_dashobard.jpeg)
 
 ---
 
@@ -15,7 +15,7 @@ This Power BI project analyses supply chain data across three interconnected das
 ## 📸 Dashboard Previews
 
 ### 1️⃣ Overview Dashboard
-![Overview](screenshots/Overview_dashboard.jpeg)
+![Overview](screenshots/Overview_dashobard.jpeg)
 *High-level KPIs, revenue breakdown by demographics, product type, shipping carriers, and top SKU performance.*
 
 ### 2️⃣ Product Insight Dashboard
@@ -140,16 +140,6 @@ Data Analyst | MSc Engineering Management, University of Birmingham
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/your-profile)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/your-username)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:kapilsudhakargohane2@gmail.com)
-
----
-
-## 📌 Other Projects
-
-| Project | Description | Link |
-|---------|-------------|------|
-| Dissertation – Industry 4.0 PM Framework | MSc research developing a hybrid Agile-Lean PM framework, awarded with Distinction | [View](#) |
-| MIS Consulting Project | Manufacturing workflow optimisation using POTi framework | [View](#) |
-| Business Operations Strategy – Bewild | Market expansion strategy for a forest-friendly produce startup | [View](#) |
 
 ---
 
